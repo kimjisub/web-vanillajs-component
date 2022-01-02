@@ -1,6 +1,6 @@
 const tag = 'me.kimjisub.vanillajs-component.';
 
-class localStorage {
+class LocalStorage {
 	constructor(key, defaultData, onChange) {
 		this.key = key;
 		this.onChange = onChange;
